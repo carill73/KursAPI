@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct KursAPIApp: App {
+struct ExchangeRateAPIApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
